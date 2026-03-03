@@ -12,7 +12,7 @@
 
 ### 2. **Objetivo** 
 
-Realizar testes manuais dos principais requisitos funcionais do sistema. Com foco na atualização dos dados do perfil do usuário cadastrado na plataforma, e Cursos Exclusivos.
+Realizar testes manuais dos principais requisitos funcionais do sistema. Com foco na atualização dos dados do perfil do usuário cadastrado na plataforma, e Cursos Exclusivos. Bem como testar a acessibilidade utilizando testes Não-Funcionais.
 
 ---
 

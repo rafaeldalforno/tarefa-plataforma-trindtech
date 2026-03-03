@@ -23,3 +23,16 @@
   * Acesso aos cursos já realizados, podendo rever as aulas do curso ou acessar o certificado.
 
 ---
+
+##  **Requisitos Não-Funcionais Detalhados para Testes Manuais**
+
+### **RNF01 - Teste de Acessibilidade da tela de atualização de perfil**
+
+**Descrição**: Acessar todos os campos editáveis via teclado.
+
+* **Funcionalidade esperada**:
+
+  * Acessar todos os campos utilizando a tecla TAB e atalhos do teclado.
+  * Possibilidade de preenchimento dos campos obrigatórios sem necessidade do uso do mouse.
+
+---
