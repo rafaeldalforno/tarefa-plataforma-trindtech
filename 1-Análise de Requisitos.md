@@ -11,7 +11,7 @@
 
 ---
 
-### **RF02 - Cursos Exclusivos**
+### **RF02 - Conteúdos Exclusivos**
 
 **Descrição**: Realizar testes na página 'Conteúdos Exclusivos
 
