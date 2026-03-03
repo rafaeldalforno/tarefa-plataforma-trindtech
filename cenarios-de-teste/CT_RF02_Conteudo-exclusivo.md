@@ -8,7 +8,7 @@
 
 | **Pré-condições**                                             |
 | :------------------------------------------------------------ |
-| O usuário deve estar autenticado com uma conta válida.     |
+| O usuário deve estar autenticado com uma conta válida e inscrito em algum curso.     |
 
 | **Passos**                                                                          |
 | :---------------------------------------------------------------------------------- |
