@@ -87,15 +87,15 @@
 
 ---
 
-### Caso de Teste 06: Preencher 'rafa@.com' com ausência do domínio.
+### Caso de Teste 06: Preencher E-mail 'rafa@.com' com ausência do domínio.
 
 ---
 
-### Caso de Teste 07: Preencher 'ra fa@dominio.com' com espaço no corpo do e-mail.
+### Caso de Teste 07: Preencher E-mail 'ra fa@dominio.com' com espaço no corpo do e-mail.
 
 ---
 
-### Caso de Teste 08: Preencher senha inválida 'Senha@1' (7 caracteres).
+### Caso de Teste 08: Preencher senha inválida 'Senha@1' (apenas 7 caracteres).
 
 | ID        | Descrição                                                          |
 | --------- | ------------------------------------------------------------------ |

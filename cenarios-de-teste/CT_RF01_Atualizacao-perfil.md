@@ -13,19 +13,13 @@
 | **Passos**                                                        |
 | ----------------------------------------------------------------- |
 | **1-** Acessar a plataforma trindtech              |
-| **2-** Clicar em 'Meu Perfil'                      |
-| **3-** Preencher campo 'Nome' com um nome válido |
-| **4-** Preencher campo 'Sobrenome' com um sobrenome válido |
-| **5-** Preencher campo 'Nacionalidade' com um nacionalidade válida |
-| **6-** Preencher campo 'CPF' com um número de CPF válido |
-| **7-** Preencher campo 'Cor/Raça' com um cor/raça válida |
-| **8-** Preencher campo 'Cor/Raça' com um cor/raça válida |
-| **9-** Preencher campo 'Gênero' com um gênero válido |
-| **10-** Preencher campo 'Pessoa com deficiência' com uma informação válida |
-| **11-** Preencher campo 'DDI' com um número válido |
-| **12-** Preencher campo 'Celular/Whatsapp' com um número válido |
-| **13-** Preencher demais campos obrigatórios com informações válidas |
-| **14-** Clicar no botão 'Salvar'     |
+|        carrega a página inicial        |
+| **2-** Clicar em 'Meu Perfil' |
+|        carrega a página do perfil na aba 'Pessoal' |
+| **3-** Preencher todos os campos obrigatórios do perfil |
+|        responde todos os campos obrigatórios |
+| **4-** Clicar no botão 'Salvar'     |
+|        dados pessoais são atualizados e a página redireciona para a aba profissional     |
 
 | **Resultados Esperados**                                        |
 | ----------------------------------------------------------------- |
