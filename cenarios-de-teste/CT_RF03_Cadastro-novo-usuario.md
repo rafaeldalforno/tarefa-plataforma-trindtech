@@ -12,13 +12,11 @@
 
 | **Passos**                                                        |
 | ----------------------------------------------------------------- |
-| **1-** Acessar página de cadastro da plataforma trindtech  |
-|        carrega a página de cadastro 
-| **2-** Selecionar 'Sim, possuo alguma deficiência' |
+| **1-** Selecionar 'Sim, possuo alguma deficiência' |
 |        campo adicional é exibido com a pergunta 'Qual sua deficiência?' |
-| **3-** Selecionar 'Outra' no campo Qual sua deficiência |
+| **2-** Selecionar 'Outra' no campo Qual sua deficiência |
 |        campo adicional é exibido 'Descreva sua deficiência' | 
-| **4-** Preencher o campo descreva sua deficiência |
+| **3-** Preencher o campo descreva sua deficiência |
 |        digitar descrição da deficiência com dado: xxxxx | 
 
 | **Resultados Esperados**                                        |
@@ -39,13 +37,11 @@
 
 | **Passos**                                                        |
 | ----------------------------------------------------------------- |
-| **1-** Acessar página de cadastro da plataforma trindtech  |
-|        carrega a página de cadastro 
-| **2-** Selecionar 'Brasil' no campo País |
+| **1-** Selecionar 'Brasil' no campo País |
 |        lista de estados brasileiros deve ser carregada no campo Estado |
-| **3-** Selecionar 'Rio Grande do Sul' |
+| **2-** Selecionar 'Rio Grande do Sul' |
 |        lista de cidades do RS deve ser carregada no campo Cidade | 
-| **4-** Selecionar Alegrete |
+| **3-** Selecionar Alegrete |
 |        seleciona a cidade | 
 
 | **Resultados Esperados**                                        |
@@ -70,7 +66,7 @@
 
 ---
 
-### Caso de Teste 05: Preencher 'rafa.com' com ausência do @.
+### Caso de Teste 05: Preencher E-mail 'rafa.com' com ausência do @.
 
 | ID        | Descrição                                                          |
 | --------- | ------------------------------------------------------------------ |
@@ -82,9 +78,7 @@
 
 | **Passos**                                                        |
 | ----------------------------------------------------------------- |
-| **1-** Acessar página de cadastro da plataforma trindtech  |
-|        carrega página de cadastro 
-| **2-** Preencher E-mail com o dado 'rafa.com' |
+| **1-** Preencher E-mail com o dado 'rafa.com' |
 |        mensagem de erro deve ser exibida |
 
 | **Resultados Esperados**                                        |
@@ -113,9 +107,7 @@
 
 | **Passos**                                                        |
 | ----------------------------------------------------------------- |
-| **1-** Acessar página de cadastro da plataforma trindtech  |
-|        carrega página de cadastro 
-| **2-** Preencher Senha 'Senha@1' |
+| **1-** Preencher Senha 'Senha@1' |
 |        mensagem de erro deve ser exibida |
 
 | **Resultados Esperados**                                        |
@@ -148,11 +140,9 @@
 
 | **Passos**                                                        |
 | ----------------------------------------------------------------- |
-| **1-** Acessar página de cadastro da plataforma trindtech  |
-|        carrega página de cadastro 
-| **2-** Preencher Senha 'Senha@12' |
+| **1-** Preencher Senha 'Senha@12' |
 |        senha validada |
-| **3-** Preencher Repetir Senha 'Senha@12' |
+| **2-** Preencher Repetir Senha 'Senha@12' |
 |        senhas compatíveis |
 
 | **Resultados Esperados**                                        |
