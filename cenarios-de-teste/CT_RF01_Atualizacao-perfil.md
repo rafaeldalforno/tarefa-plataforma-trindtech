@@ -31,18 +31,18 @@
 
 | ID       | Descrição                                                          |
 | -------- | ------------------------------------------------------------------ |
-| RF01-CT02 | Atualização do perfil do usuário com o dado de CPF inválido |
+| RF01-CT02 | Atualização do perfil do usuário com o dado de CPF = '00011122233' |
 
 | **Pré-condições**                                                 |
 | ----------------------------------------------------------------- |
-| Usuário autenticado no sistema   |
+| Usuário autenticado no sistema e acessar 'Meu perfil' |
 
 | **Passos**                                                        |
 | ----------------------------------------------------------------- |
-| **1-** Acessar a plataforma trindtech              |
-| **2-** Clicar em 'Meu Perfil'                      |
-| **3-** Preencher campo 'CPF' com um número inválido |
-| **4-** Clicar no botão 'Salvar' |
+| **1-** Preencher campo 'CPF' com o número 00011122233 |
+|        número de CPF é digitado       |
+| **2-** Clicar no botão 'Salvar' |
+|        mensagem de erro é apresentada no topo do formulário e abaixo do campo CPF      |
 
 | **Resultados Esperados**                                         |
 | ----------------------------------------------------------------- |
@@ -59,15 +59,17 @@
 
 | **Pré-condições**                                                 |
 | ----------------------------------------------------------------- |
-| Usuário autenticado no sistema   |
+| Usuário autenticado no sistema e acessar 'Meu perfil' |
 
 | **Passos**                                                        |
 | ----------------------------------------------------------------- |
-| **1-** Acessar a plataforma trindtech              |
-| **2-** Clicar em 'Meu Perfil'                      |
-| **3-** Preencher campos obrigatórios com dados válidos |
-| **5-** Na sessão 'Contato' deixar os campos totalmente vazios |
-| **5-** Clicar no botão 'Salvar' |
+| **1-** Preencher campos obrigatórios  |
+|        formulário preenchido    |
+| **2-** Na sessão 'Contato' deixar os campos totalmente vazios |
+|        campos 'DDI' e 'Celular/Whatsapp' vazios     |
+| **3-** Clicar no botão 'Salvar' |
+|        mensagem de erro é apresentada no topo do formulário, abaixo dos campos DDI e Celular/Whatsapp     |
+
 
 | **Resultados Esperados**                                         |
 | ----------------------------------------------------------------- |
@@ -77,11 +79,11 @@
 
 ---
 
-### Caso de Teste 04: Atualizar a aba profissional do perfil com dados válidos.
+### Caso de Teste 04: Atualizar a aba profissional do perfil.
 
 ---
 
-### Caso de Teste 05: Tentativa de atualizar aba profissional do perfil, com dados inválidos.
+### Caso de Teste 05: Selecionar 'Ensino Médio' na escolaridade na aba Profissional, Verificar a NÃO exibição do campo 'Nome do Curso de formação'.
 
 ---
 
@@ -89,11 +91,7 @@
 
 ---
 
-### Caso de Teste 07: Atualizar a aba habilidades do perfil com dados válidos.
-
----
-
-### Caso de Teste 08: Tentativa de atualizar aba habilidades do perfil, com dados inválidos.
+### Caso de Teste 07: Atualizar a aba habilidades do perfil.
 
 ---
 

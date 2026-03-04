@@ -13,9 +13,13 @@
 | **Passos**                                                        |
 | ----------------------------------------------------------------- |
 | **1-** Acessar a plataforma trindtech              |
-| **2-** Usando a tecla TAB acessar o 'Meu Perfil'                      |
+|        carrega página inicial |
+| **2-** Usando a tecla TAB acessar o 'Meu Perfil'   |
+|        carrega página do perfil na aba Pessoal     |
 | **3-** Navegar por todos os campos usando a tecla TAB |
+|        ter acesso a botões e campos editáveis da tela |
 | **4-** Verificar a ordem lógica do foco dos campos  |
+|        percorrer todos os campos em ordem lógica   |
 
 | **Resultados Esperados**                                        |
 | ----------------------------------------------------------------- |
